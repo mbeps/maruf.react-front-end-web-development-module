@@ -1,0 +1,26 @@
+{
+    "name": "front-end-web-development-extension-pack",
+    "displayName": "Front End Web Development Extension Pack",
+    "description": "Collection of extensions for frontend web development",
+    "version": "0.0.1",
+    "publisher": "Maruf",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+		"ms-edgedevtools.vscode-edge-devtools",
+		"formulahendry.auto-close-tag",
+		"formulahendry.auto-rename-tag",
+		"ritwickdey.LiveServer",
+		"ReliableWebhook.ReliableWebhook",
+        "bradlc.vscode-tailwindcss",
+		"ecmel.vscode-html-css",
+		"danileao.css-variables-autocomplete",
+		"pranaygp.vscode-css-peek",
+        "smarschollek.vscode-react-scripts-test-adapter",
+		"dsznajder.es7-react-js-snippets" 
+    ]
+}
