@@ -1,6 +1,6 @@
 {
-    "name": "front-end-web-development-extension-pack",
-    "displayName": "Front End Web Development Extension Pack",
+    "name": "front-end-web-development-module",
+    "displayName": "Front End Web Development Module",
     "description": "Collection of extensions for frontend web development",
     "version": "0.0.1",
     "publisher": "Maruf",
