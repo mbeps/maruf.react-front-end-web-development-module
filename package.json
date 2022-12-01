@@ -1,6 +1,6 @@
 {
-    "name": "react-development-module",
-    "displayName": "React Development Module",
+    "name": "react-web-development-module",
+    "displayName": "React Web Development Module",
     "description": "Collection of extensions for frontend web development",
     "version": "0.0.1",
     "publisher": "Maruf",
